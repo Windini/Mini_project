@@ -15,8 +15,8 @@ class Config
           // Timezone
           date_default_timezone_set("Asia/Jakarta");
 
-          // Url dan Assets
-          define("URL", "http://localhost/pbwl-project10");
+          // // Url dan Assets
+          define("URL", "http://localhost/Mini_project");
           define("AST", URL . "/layouts/assets");
 
           define("ROOT", dirname(__DIR__) . DIRECTORY_SEPARATOR);

@@ -4,6 +4,8 @@ namespace App\Models;
 
 use App\Core\Model;
 
+include_once __DIR__ . '/../../config/koneksi.php';
+
 class Category extends Model
 {
 

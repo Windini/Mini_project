@@ -4,6 +4,9 @@ namespace App\Models;
 
 use App\Core\Model;
 
+include_once __DIR__ . '/../../config/koneksi.php';
+
+
 class User extends Model
 {
 
